@@ -1,2 +1,2 @@
-- Test Bloğu
+- Test Bloğu 2
 - Test Bloğu 2 (ama daha uzun ve daha fazla karakter var)
